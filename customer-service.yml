@@ -6,4 +6,4 @@ spring:
     name: customer-service
   data:
     mongodb:
-      uri: mongodb://dev:pass@ds047124.mongolab.com:47124/dev_env
+      uri: mongodb://localhost:27017/springrx
